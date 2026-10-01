@@ -1,4 +1,11 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:260542019
+AD-SOYAD:Ahmet Ömer SAK
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+
+1.Yumurtaları bir kaba koy ve çirp;
+2.Tuz ekle;
+3.Tavaya yağ koy ve ısıt;
+4.Eğer yağ ısındı ise tavaya yumurtaları koy;
+5.Yumurtayı pişirene kadar bekle;
+6.Yumurta piştiğinde tabağa koy;

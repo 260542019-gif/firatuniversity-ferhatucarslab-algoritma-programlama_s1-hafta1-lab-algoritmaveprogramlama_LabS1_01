@@ -1,4 +1,9 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:260524019
+AD-SOYAD:Ahmet Ömer SAK
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+1.İki büyük sayı al;
+2.Sayıları basamaklara ayır;
+3.Her basamağı diğer sayının basamağı ile çarp;
+4.Elde edilen sonucu basamaklarına göre topla;
+5.Sonucu göster;

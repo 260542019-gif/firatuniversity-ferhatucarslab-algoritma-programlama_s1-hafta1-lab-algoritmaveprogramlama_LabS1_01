@@ -1,4 +1,9 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:260542019
+AD-SOYAD:Ahmet Ömer SAK
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+1.Öğrencilerin notlarını al;
+2.Notları Karşılaştır;
+3.Büyük olan notu önce sırala;
+4.Tüm notlar karşılaştırılana kadar karşılaştırmaya devam et;
+5.Sıralanmış notları göster;

@@ -1,4 +1,9 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:260542019
+AD-SOYAD:Ahmet Ömer SAK
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+1.Çalışılacak dersleri belirle;
+2.Her ders için çalışma süresi belirle;
+3.En önemli derse öncelik ver;
+4.Çalışma ve mola sürelerini plana ekle;
+5.Planı tamamlayana kadar devam et;

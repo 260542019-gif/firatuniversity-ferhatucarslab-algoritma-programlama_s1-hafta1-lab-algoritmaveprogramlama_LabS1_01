@@ -1,4 +1,8 @@
-Öğrenci No:
-AD-SOYAD:
+Öğrenci No:260542019
+AD-SOYAD:Ahmet Ömer SAK
 
 Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya ekleyiniz:
+1.İlk hamleyi yap;
+2.Eğer iyi bir hamle varsa onu yap;
+3.Eğer rakip kazanmaya yaklaştıysa kazanmasını engelle;
+4.Eğer üç sembol yanyanaysa oyunu kazandın;
