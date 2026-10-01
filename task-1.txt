@@ -9,3 +9,16 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 4.Eğer yağ ısındı ise tavaya yumurtaları koy;
 5.Yumurtayı pişirene kadar bekle;
 6.Yumurta piştiğinde tabağa koy;
+
+Farklı Çözüm Versiyonlarının Karşılaştırması:
+
+1. Basit çözüm: Yumurtayı hazırlayıp doğrudan tavada pişirmek.
+2. Geliştirilmiş çözüm: Yumurtanın pişme durumunu kontrol etmek ve fazla kızarırsa ocağın altını kısmak.
+
+Geliştirilmiş çözüm daha kontrollüdür ve omletin yanmasını önlemeye yardımcı olur.
+
+LLM ile Yapılan Konuşmaların Geçmişi:
+
+LLM'den mükemmel omlet yapma algoritması oluşturmak için yardım istedim.
+LLM, algoritmada koşul ve kontrol adımlarının kullanılmasını önerdi.
+Bu önerileri değerlendirerek algoritmamı oluşturdum.

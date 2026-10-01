@@ -7,3 +7,16 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 3.En önemli derse öncelik ver;
 4.Çalışma ve mola sürelerini plana ekle;
 5.Planı tamamlayana kadar devam et;
+
+Farklı Çözüm Versiyonlarının Karşılaştırması:
+
+1. Basit çözüm: Dersleri belirleyip sırayla çalışmak.
+2. Geliştirilmiş çözüm: Derslerin önemine göre öncelik belirlemek ve çalışma ile mola sürelerini plana eklemek.
+
+Geliştirilmiş çözüm, zamanı daha düzenli kullanmaya yardımcı olur.
+
+LLM ile Yapılan Konuşmaların Geçmişi:
+
+LLM'den ders çalışma planı oluşturmak için yardım istedim.
+LLM, derslerin önemine göre öncelik verilmesini ve çalışma-mola sürelerinin belirlenmesini önerdi.
+Bu önerileri değerlendirerek algoritmamı oluşturdum.

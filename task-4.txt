@@ -7,3 +7,16 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 3.Her basamağı diğer sayının basamağı ile çarp;
 4.Elde edilen sonucu basamaklarına göre topla;
 5.Sonucu göster;
+
+Farklı Çözüm Versiyonlarının Karşılaştırması:
+
+1. Basit çözüm: İki büyük sayıyı doğrudan çarpmak.
+2. Geliştirilmiş çözüm: Sayıları parçalara ayırıp ayrı ayrı çarpmak ve sonuçları birleştirmek.
+
+İkinci çözüm, Divide & Conquer yaklaşımını kullanır ve büyük problemi daha küçük parçalara ayırır.
+
+LLM ile Yapılan Konuşmaların Geçmişi:
+
+LLM'den büyük sayıların Divide & Conquer yöntemiyle çarpılması hakkında yardım istedim.
+LLM, sayıların parçalara ayrılarak ayrı ayrı işlenmesini önerdi.
+Bu önerileri değerlendirerek algoritmamı oluşturdum.

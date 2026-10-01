@@ -7,3 +7,16 @@ Lütfen seçtiğiniz algoritmaya ait çözümü ve diğer isterleri aşağıya e
 3.Büyük olan notu önce sırala;
 4.Tüm notlar karşılaştırılana kadar karşılaştırmaya devam et;
 5.Sıralanmış notları göster;
+
+Farklı Çözüm Versiyonlarının Karşılaştırması:
+
+1. Basit çözüm: Notları sırayla karşılaştırarak büyük olanı öne almak.
+2. Geliştirilmiş çözüm: Tüm notları karşılaştırıp büyükten küçüğe düzenli şekilde sıralamak.
+
+Geliştirilmiş çözüm, çok sayıda not olduğunda daha düzenli bir sonuç verir.
+
+LLM ile Yapılan Konuşmaların Geçmişi:
+
+LLM'den öğrenci notlarını büyükten küçüğe sıralamak için yardım istedim.
+LLM, notların karşılaştırılarak sıralanmasını önerdi.
+Bu önerileri değerlendirerek algoritmamı oluşturdum.
